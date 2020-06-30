@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dod-national-guard-client-side-solution",
+    "id": "7e0cc2ad-ff43-42f6-9cb9-683aa34f1b90",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/dod-national-guard.sppkg"
+  }
+}
