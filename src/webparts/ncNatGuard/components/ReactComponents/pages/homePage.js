@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import ReactPlayer from "react-player"
+import ReactPlayer from "react-player";
 
 import picture from '../../Assets/images/hornet.jpg'
 import news1 from '../../Assets/images/News1.jpg'
@@ -9,8 +9,6 @@ import news3 from '../../Assets/images/News3.jpg'
 import news4 from '../../Assets/images/News4.jpg'
 import news5 from '../../Assets/images/News5.jpg'
 import crawlingPicture from '../../Assets/images/crawling-woman.jpg'
-
-
 
 class HomePage extends Component{
   render() {
@@ -104,7 +102,7 @@ class HomePage extends Component{
 
           <h2> Featured News </h2>
           <a href = "https://www.fox46.com/news/thousands-gather-at-vigil-to-honor-uncc-shooting-victims/"><h4>​UNCC student, National Guard Medic acts fast to help shooting victim</h4></a>
-          
+
           <h2> Featured Videos </h2>
           <h4>UNC-TV: 2018 a Historic Year for the NCNG, and what's ahead in 2019</h4>
           <div className = "player-wrapper">
@@ -113,7 +111,7 @@ class HomePage extends Component{
             />
             </div>
           </div>
-        
+
       </div>
 
     );
