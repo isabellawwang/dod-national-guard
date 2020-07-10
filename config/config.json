@@ -9,10 +9,10 @@
           "manifest": "./src/webparts/ncNatGuard/NcNatGuardWebPart.manifest.json"
         }
       ]
-    }
+    },
   },
   "externals": {},
   "localizedResources": {
-    "NcNatGuardWebPartStrings": "lib/webparts/ncNatGuard/loc/{locale}.js"
+    "NcNatGuardWebPartStrings": "lib/webparts/ncNatGuard/loc/{locale}.js",
   }
 }

@@ -104,7 +104,7 @@ class HomePage extends Component{
 
           <h2> Featured News </h2>
           <a href = "https://www.fox46.com/news/thousands-gather-at-vigil-to-honor-uncc-shooting-victims/"><h4>​UNCC student, National Guard Medic acts fast to help shooting victim</h4></a>
-          
+
           <h2> Featured Videos </h2>
           <h4>UNC-TV: 2018 a Historic Year for the NCNG, and what's ahead in 2019</h4>
           <div className = "player-wrapper">
@@ -113,7 +113,7 @@ class HomePage extends Component{
             />
             </div>
           </div>
-        
+
       </div>
 
     );
