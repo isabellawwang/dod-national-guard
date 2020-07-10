@@ -1,5 +1,5 @@
 import * as React from 'react';
-import styles from './NcNatGuard.module.scss';
+// import styles from './NcNatGuard.module.scss';
 import { INcNatGuardProps } from './INcNatGuardProps';
 import { escape } from '@microsoft/sp-lodash-subset';
 import ReactPlayer from "react-player";
