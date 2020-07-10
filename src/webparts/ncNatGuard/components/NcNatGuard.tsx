@@ -13,6 +13,8 @@ import news5 from '../../../Assets/images/News5.jpg'
 import crawlingPicture from '../../../Assets/images/crawling-woman.jpg'
 */
 
+// SHAREPOINT PAGE
+
 export default class NcNatGuard extends React.Component<INcNatGuardProps, {}> {
   public render(): React.ReactElement<INcNatGuardProps> {
     return (
